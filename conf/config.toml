@@ -55,9 +55,6 @@ subs = [
     "https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/vmess",
     "https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/ssr",
     "https://d.aizrf.com/vless-all",
-    "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml",
-    "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within.yaml",
-    "https://raw.githubusercontent.com/ccpthisbigdog/freedomchina/refs/heads/main/subdom.txt",
     "https://raw.githubusercontent.com/mai19950/clashgithub_com/refs/heads/main/site"
 ]
 
