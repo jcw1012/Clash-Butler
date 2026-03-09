@@ -46,7 +46,6 @@ subs = [
     "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
     "https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml",
     "https://raw.githubusercontent.com/mgit0001/test_clash/refs/heads/main/heima.txt",
-    "https://raw.githubusercontent.com/mai19950/clashgithub_com/refs/heads/main/site",
     "https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub",
     "https://raw.githubusercontent.com/shahidbhutta/Clash/refs/heads/main/Router",
     "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml",
@@ -74,7 +73,8 @@ subs = [
     "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within.yaml",
     "https://raw.githubusercontent.com/ccpthisbigdog/freedomchina/refs/heads/main/subdom.txt",
     "https://ys.jiedianxielou.workers.dev",
-    "https://woyooo-distribute.hf.space/api/v1/subscribe?token=h3oz31g04pcd06uu&target=clash&list=false"
+    "https://woyooo-distribute.hf.space/api/v1/subscribe?token=h3oz31g04pcd06uu&target=clash&list=false",
+    "https://raw.githubusercontent.com/mai19950/clashgithub_com/refs/heads/main/site"
 ]
 
 # 是否重命名节点，打开后会使用 geoip 等方式进行代理真实 IP 和地理地址查询
