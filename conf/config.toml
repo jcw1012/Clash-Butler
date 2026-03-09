@@ -32,6 +32,9 @@ subs = [
     "https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml",
     "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml",
     "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml”,
+    "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml",
+    "https://raw.githubusercontent.com/PuddinCat/BestClash/refs/heads/main/proxies.yaml",
+    "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt",
 ]
 
 # 是否重命名节点，打开后会使用 geoip 等方式进行代理真实 IP 和地理地址查询
